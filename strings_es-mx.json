@@ -68,11 +68,11 @@
     "evalTitle": "Autoevaluación",
     "evalDesc": "Califica tu nivel de competencia en cada área en una escala del 1 al 5, donde:",
     "scaleLabels": {
-      "1": "Principiante (Sin experiencia o conocimientos básicos)",
-      "2": "Nivel básico (Experiencia limitada, requiere orientación)",
-      "3": "Intermedio (Conocimientos prácticos, cierta autonomía)",
-      "4": "Avanzado (Conocimientos amplios, trabaja de forma independiente)",
-      "5": "Experto (Dominio completo, puede enseñar a otros)"
+      "1": "Principiante (sin experiencia o conocimientos básicos)",
+      "2": "Nivel básico (experiencia limitada, requiere orientación)",
+      "3": "Intermedio (conocimientos prácticos, cierta autonomía)",
+      "4": "Avanzado (conocimientos amplios, trabaja de forma independiente)",
+      "5": "Experto (dominio completo, puede enseñar a otros)"
     },
     "calculateBtn": "Calcular resultados",
     "resultsTitle": "Tus resultados de competencia en localización",
