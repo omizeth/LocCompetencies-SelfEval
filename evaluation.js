@@ -826,7 +826,7 @@ function setupEventHandlers(strings) {
             // If no matching paths, show generic message
             if (matchingPaths.length === 0) {
                 const noPathsItem = document.createElement('li');
-                noPathsItem.textContent = getNestedProperty(strings, 'careerPaths.none') || 
+                noPathsItem.textContent = getNestedProperty(strings, 'careerPathNames.none') || 
                     'Continue developing your skills in weaker areas to match specific career paths.';
                 careerPathsList.appendChild(noPathsItem);
             } else {
